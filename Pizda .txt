@@ -1,1 +1,2 @@
 git commit -m "A new file is added"
+git commit -m "A file has been removed"
